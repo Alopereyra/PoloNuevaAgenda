@@ -8,4 +8,3 @@ const dotenv_1 = __importDefault(require("dotenv"));
 //configuramos dot.env
 dotenv_1.default.config();
 const server = new server_1.default();
-server.listen();
