@@ -1,4 +1,4 @@
-# PoloNuevaAgenda
+# PoloNuevaAgenda BD
 
 Aca esta el Servicio de la base de datos en la carpeta 
 "server"
