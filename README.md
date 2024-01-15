@@ -1,6 +1,7 @@
 # PoloNuevaAgenda
 
-Aca esta el Servicio de la base de datos
+Aca esta el Servicio de la base de datos en la carpeta 
+"server"
 
 Cambiar branches Master
 
